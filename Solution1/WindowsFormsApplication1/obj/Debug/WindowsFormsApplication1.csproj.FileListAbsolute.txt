@@ -1,0 +1,1 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

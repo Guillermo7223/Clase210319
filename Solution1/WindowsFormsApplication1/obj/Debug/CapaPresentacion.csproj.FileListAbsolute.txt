@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPrincipal.resources
